@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AplicacioDADB</string>
+    <string name="title_activity_list_gats">ListGatsActivity</string>
+</resources>
